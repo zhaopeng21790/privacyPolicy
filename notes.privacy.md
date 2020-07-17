@@ -8,6 +8,13 @@ However, this application will process this information with a high degree of ef
 This application will update this privacy Policy from time to time. By agreeing to this Application Service Usage Agreement, you agree to the entire content of this Privacy Policy.
 This privacy policy is an integral part of this Application Service Agreement.
 
+
+
+1. app does not include third-party analytics.
+2. app include third-party advertising services, not personalized advertising.
+
+
+
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at 185403812@qq.com
