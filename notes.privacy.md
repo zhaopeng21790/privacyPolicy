@@ -1,4 +1,6 @@
-```
+### <div align='center' ><font size='20'>Privacy Policy</font></div>
+
+
 
 This application respects and protects the privacy of all users using the service. 
 In order to provide you with more accurate and personalized services, this application will use and disclose your personal information in accordance with this Privacy Policy. 
@@ -9,4 +11,4 @@ This privacy policy is an integral part of this Application Service Agreement.
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at 185403812@qq.com
-```
+
