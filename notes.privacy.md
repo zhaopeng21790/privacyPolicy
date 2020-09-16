@@ -17,5 +17,5 @@ This privacy policy is an integral part of this Application Service Agreement.
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at 185403812@qq.com
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at hongqiaolouyu@163.com
 
